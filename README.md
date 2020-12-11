@@ -1,4 +1,4 @@
-# Ecoleta
+# Proffy
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
@@ -8,15 +8,19 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="ecoleta.png" alt="bikcraft">
+<img src="proffy.png" alt="bikcraft">
 
-> Ecoleta - é uma forma de conectar empresas e entidades de coleta de resíduos orgânicos e inorgânicos as pessoas que precisam descartar seus resíduos de maneira ecológica.
+>  É uma plataforma onde você pode estudar ou dar aulas. Um professor colocando seu dados, a matéria que quer ensinar, e escolher o melhor horário para dar a sua aula. Assim, os dados cadastrados ficaram disponíveis no site onde alunos podem escolher o professor que melhor se encaixa na em suas preferências.
 
-Projeto desenvolvido durante a NLW - Next Level Week oferecida pela Rocketseat. O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
+Projeto desenvolvido durante a NLW - Next Level Week#02 oferecida pela Rocketseat.
 
 
 ## 💻 Tecnologias
+- [x] HTML5
+- [x] CSS3
+- [x] JavaScript
 - [x] NodeJs
+- [x] Nodemon
 - [x] Express
 - [x] SQlite
 - [x] Nunjucks
