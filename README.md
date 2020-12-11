@@ -8,7 +8,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="proffy.png" alt="bikcraft">
+<img src="ecoleta.png" alt="bikcraft">
 
 >  Ecoleta é um projeto de desenvolvimento fullstack (API REST + Web front-end + Mobile). Trata-se de um marketplace para auxiliar as pessoas a encontrarem pontos de coleta de resíduos.
 
