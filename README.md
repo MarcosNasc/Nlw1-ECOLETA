@@ -12,7 +12,7 @@
 
 >  Ecoleta é um projeto de desenvolvimento fullstack (API REST + Web front-end + Mobile). Trata-se de um marketplace para auxiliar as pessoas a encontrarem pontos de coleta de resíduos.
 
-Projeto desenvolvido durante a NLW - Next Level Week#03 oferecida pela Rocketseat
+Projeto desenvolvido durante a NLW - Next Level Week#01 oferecida pela Rocketseat
 
 
 ## 💻 Tecnologias
